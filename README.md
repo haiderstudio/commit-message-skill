@@ -2,7 +2,7 @@
 
 Write Conventional Commits messages from a real diff — and refuse vague messages.
 
-[![CI](https://github.com/hai02487/commit-message-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/hai02487/commit-message-skill/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
+[![CI](https://github.com/haiderstudio/commit-message-skill/actions/workflows/ci.yml/badge.svg)](https://github.com/haiderstudio/commit-message-skill/actions/workflows/ci.yml) [![Licence: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
 
 ## What it does
 
